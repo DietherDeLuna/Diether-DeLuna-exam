@@ -1,2 +1,12 @@
-# Diether-DeLuna-exam
- Exam by Diether D. De Luna, Sept 13, 2023, [6:14 PM], Sept 19, 2023 [11:38 AM]
+This project is a program that will get YouTube channel information and 100 videos under this channel using YouTube API.
+
+* The program can save multiple channels.
+* Only videos belonging to the channel will show.
+* Database name: youtube_db
+
+Programming Language use for the project:
+* PHP - for connecting to database
+* MySQL - database
+* HTML - website design
+* Bootstrap 5 - framework
+* Vue.js - displaying content of json file
