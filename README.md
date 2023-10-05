@@ -8,7 +8,7 @@ Programming Language use for the project:
 * PHP - for connecting to database
 * MySQL - database
 * HTML - website design
-* Bootstrap 4 - framework
+* Bootstrap 5 - framework
 * Vue.js - displaying content of json file
 
 
